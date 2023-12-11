@@ -1,0 +1,27 @@
+<resources>
+    <string name="liveness_app_name">vivacidad</string>
+    <string name="liveness_none"></string>
+    <string name="liveness_blink">Parpadee.</string>
+    <string name="liveness_mouse">Abra la boca y ciérrela.</string>
+    <string name="liveness_pos_raw">Gire la cabeza hacia la izquierda o hacia la derecha (&lt;30 grados).</string><!--yaw摇头-->
+    <string name="liveness_hold_phone_vertical">Mantenga verticalmente el móvil.</string>
+    <string name="liveness_weak_light">Encuentre un lugar con más iluminación.</string>
+    <string name="liveness_too_light">Encuentre un lugar con menos iluminación.</string>
+    <string name="liveness_no_camera_permission">La cámara no está encendida, active los permisos de ella.</string>
+    <string name="liveness_perform">Sí</string>
+    <string name="liveness_cancel">Cancelar</string>
+    <string name="liveness_try_again">Utilizar de nuevo</string>
+    <string name="liveness_detection_success">Detección de vivacidad exitosa</string>
+    <string name="liveness_move_face_center">Muévese la cara al centro del marco.</string>
+    <string name="liveness_still">Manténgase inmóvil e inicie la prueba.</string>
+    <string name="liveness_frontal">Mire directamente a la pantalla.</string>
+    <string name="liveness_detection_fail">La detección de vivacidad se ha fallado, inténtela de nuevo.</string>
+    <string name="liveness_time_out">Se ha acabado el tiempo.</string>
+    <string name="liveness_no_people_face">Póngase la cara en el marco.</string>
+    <string name="liveness_auth_check">Espere.</string>
+    <string name="liveness_tip_move_closer">Muévese la cara más cerca de la pantalla.</string>
+    <string name="liveness_tip_move_furthre">Aléjese la cara de la pantalla.</string>
+    <string name="liveness_device_not_support">El dispositivo no admite la detección de actividad.</string>
+    <string name="liveness_face_occ">Por favor no te cubras la cara</string>
+
+</resources>

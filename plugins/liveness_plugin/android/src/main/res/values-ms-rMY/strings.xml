@@ -1,0 +1,27 @@
+<resources>
+    <string name="liveness_app_name">liveness</string>
+    <string name="liveness_none"></string>
+    <string name="liveness_blink">Sila kelip mata anda</string>
+    <string name="liveness_mouse">Sila buka mulut anda dan kemudian tutup</string>
+    <string name="liveness_pos_raw">Sila pusingkan kepala anda ke kiri atau kanan (Kurangkan 30 Darjah) </string>
+    <string name="liveness_hold_phone_vertical">Sila pegang telefon anda dengan tegak</string>
+    <string name="liveness_weak_light">Sila ke lokasi lebih terang</string>
+    <string name="liveness_too_light">Sila ke lokasi lebih gelap</string>
+    <string name="liveness_no_camera_permission">Kamera anda tidak buka, sila buka kebenaran</string>
+    <string name="liveness_perform">Ya</string>
+    <string name="liveness_cancel">Batal</string>
+    <string name="liveness_try_again">Sila gunakan sekali lagi</string>
+    <string name="liveness_detection_success">Pengesahan liveness berjaya</string>
+    <string name="liveness_move_face_center">Sila posisi wajah anda ke tengah bingkai wajah</string>
+    <string name="liveness_still">Sila jangan begerak dan mulakan ujian percubaan</string>
+    <string name="liveness_frontal">Sila lihat terus ke skrin</string>
+    <string name="liveness_detection_fail">Liveness detection tidak berjaya, sila cuba sekali lagi</string>
+    <string name="liveness_time_out">Masa sudah tamat</string>
+    <string name="liveness_no_people_face">Sila posisi wajah anda di bingkai wajah</string>
+    <string name="liveness_auth_check">Sila tunggu hingga selesai</string>
+    <string name="liveness_tip_move_closer">Sila gerakkan muka anda lebih dekat ke skrin</string>
+    <string name="liveness_tip_move_furthre">Gerakkan Muka Anda lebih jauh dari skrin</string>
+    <string name="liveness_device_not_support">Alat anda tidak menyokong liveliness detection</string>
+    <string name="liveness_face_occ">Jangan tutup muka anda</string>
+
+</resources>

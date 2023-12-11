@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="liveness_failed_reason_timeout">Se ha acabado el tiempo, siga las instrucciones.</string>
+    <string name="liveness_failed_reason_facemissing_blink_mouth">No se ha detectado ningún rostro. Evite el movimiento rápido e encuentre un lugar con mejor iluminación.</string>
+    <string name="liveness_failed_reason_facemissing_pos_yaw">No se ha detectado ningún rostro. Evite el movimiento rápido y no mueva mucho la cabeza (> 45 grados).</string>
+    <string name="liveness_failed_reason_multipleface">Múltiples rostros detectados</string>
+    <string name="liveness_failed_reason_muchaction">Múltiples movimientos detectados</string>
+    <string name="liveness_failed_reason_auth_failed">La autorización se ha fallado, examine la red.</string>
+    <string name="liveness_failed_reason_bad_network"> Examine la red.</string>
+</resources>
